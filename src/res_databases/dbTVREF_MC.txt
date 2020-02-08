@@ -1,0 +1,336 @@
+﻿MAJ ETE 2016
+MAJ HIVER 2016/2017
+
+S ; AJA ; ORY ; 01h40 ; ; 320
+S ; ORY ; AJA ; 01h40 ; ; 320
+S ; ALG ; CDG ; 02h20 ; ; 320
+S ; CDG ; ALG ; 02h20 ; ; 320
+S ; AMM ; CDG ; 05h05 ; ; 320
+S ; CDG ; AMM ; 04h45 ; ; 320
+S ; AMS ; CDG ; 01h15 ; ; 320
+S ; CDG ; AMS ; 01h15 ; ; 320
+S ; AMS ; MRS ; 01h50 ; ; 320
+S ; MRS ; AMS ; 02h00 ; ; 320
+S ; ARN ; CDG ; 02h40 ; ; 320
+S ; CDG ; ARN ; 02h35 ; ; 320
+S ; ATH ; CDG ; 03h30 ; ; 320
+S ; CDG ; ATH ; 03h20 ; ; 320
+S ; BCN ; CDG ; 02h00 ; ; 320
+S ; CDG ; BCN ; 01h45 ; ; 320
+S ; BES ; CDG ; 01h15 ; ; 320
+S ; CDG ; BES ; 01h10 ; ; 320
+S ; BES ; ORY ; 01h10 ; ; 320
+S ; ORY ; BES ; 01h10 ; ; 320
+S ; BHX ; CDG ; 01h20 ; ; 320
+S ; CDG ; BHX ; 01h20 ; ; 320
+S ; BIA ; ORY ; 01h35 ; ; 320
+S ; ORY ; BIA ; 01h35 ; ; 320
+S ; BIQ ; ORY ; 01h20 ; ; 320
+S ; ORY ; BIQ ; 01h20 ; ; 320
+S ; BOD ; CDG ; 01h25 ; ; 320
+S ; CDG ; BOD ; 01h20 ; ; 320
+S ; BOD ; ORY ; 01h10 ; ; 320
+S ; ORY ; BOD ; 01h05 ; ; 320
+S ; BUD ; CDG ; 02h20 ; ; 320
+S ; CDG ; BUD ; 02h10 ; ; 320
+S ; CDG ; LHR ; 01h15 ; AF1080 ; 320
+S ; LHR ; CDG ; 01h15 ; AF1081 ; 320
+S ; CDG ; LHR ; 01h20 ; AF1180 ; 320
+S ; LHR ; CDG ; 01h15 ; AF1181 ; 320
+S ; CDG ; LHR ; 01h25 ; AF1280 ; 320
+S ; LHR ; CDG ; 01h10 ; AF1281 ; 320
+S ; CDG ; LHR ; 01h20 ; AF1380 ; 320
+S ; LHR ; CDG ; 01h20 ; AF1381 ; 320
+S ; CDG ; LHR ; 01h20 ; AF1580 ; 320
+S ; LHR ; CDG ; 01h15 ; AF1581 ; 320
+S ; CDG ; LHR ; 01h20 ; AF1680 ; 320
+S ; LHR ; CDG ; 01h15 ; AF1681 ; 320
+S ; CDG ; LHR ; 01h20 ; AF1780 ; 320
+S ; LHR ; CDG ; 01h15 ; AF1781 ; 320
+S ; CLY ; ORY ; 01h30 ; ; 320
+S ; ORY ; CLY ; 01h35 ; ; 320
+S ; CMN ; CDG ; 03h05 ; ; 320
+S ; CDG ; CMN ; 03h10 ; ; 320
+S ; CPH ; CDG ; 02h00 ; ; 320
+S ; CDG ; CPH ; 01h55 ; ; 320
+S ; EVN ; CDG ; 05h05 ; ; 320
+S ; CDG ; EVN ; 04h35 ; ; 320
+S ; FCO ; CDG ; 02h10 ; ; 320
+S ; CDG ; FCO ; 02h05 ; ; 320
+S ; FSC ; CDG ; 01h45 ; ; 320
+S ; CDG ; FSC ; 01h50 ; ; 320
+S ; GVA ; CDG ; 01h10 ; ; 320
+S ; CDG ; GVA ; 01h10 ; ; 320
+S ; HAM ; CDG ; 01h35 ; ; 320
+S ; CDG ; HAM ; 01h35 ; ; 320
+S ; IST ; CDG ; 03h45 ; ; 320
+S ; CDG ; IST ; 03h20 ; ; 320
+S ; KBP ; CDG ; 03h20 ; ; 320
+S ; CDG ; KBP ; 03h05 ; ; 320
+S ; LED ; CDG ; 03h30 ; ; 320
+S ; CDG ; LED ; 03h20 ; ; 320
+S ; LIN ; CDG ; 01h30 ; ; 320
+S ; CDG ; LIN ; 01h30 ; ; 320
+S ; LIS ; CDG ; 02h35 ; ; 320
+S ; CDG ; LIS ; 02h35 ; ; 320
+S ; LYS ; CDG ; 01h10 ; ; 320
+S ; CDG ; LYS ; 01h10 ; ; 320
+S ; LYS ; NCE ; 00h55 ; ; 320
+S ; NCE ; LYS ; 00h55 ; ; 320
+S ; LYS ; TLS ; 01h05 ; ; 320
+S ; TLS ; LYS ; 01h00 ; ; 320
+S ; MAD ; CDG ; 02h10 ; ; 320
+S ; CDG ; MAD ; 02h05 ; ; 320
+S ; MAN ; CDG ; 01h30 ; ; 320
+S ; CDG ; MAN ; 01h30 ; ; 320
+S ; MPL ; CDG ; 01h30 ; ; 320
+S ; CDG ; MPL ; 01h25 ; ; 320
+S ; MPL ; ORY ; 01h25 ; ; 320
+S ; ORY ; MPL ; 01h15 ; ; 320
+S ; MRS ; BES ; 01h40 ; ; 320
+S ; BES ; MRS ; 01h35 ; ; 320
+S ; MRS ; BIQ ; 01h10 ; ; 320
+S ; BIQ ; MRS ; 01h05 ; ; 320
+S ; MRS ; BOD ; 01h05 ; ; 320
+S ; BOD ; MRS ; 01h05 ; ; 320
+S ; MRS ; CDG ; 01h30 ; ; 320
+S ; CDG ; MRS ; 01h25 ; ; 320
+S ; MRS ; NTE ; 01h20 ; ; 320
+S ; NTE ; MRS ; 01h15 ; ; 320
+S ; MRS ; ORY ; 01h20 ; ; 320
+S ; ORY ; MRS ; 01h15 ; ; 320
+S ; MUC ; CDG ; 01h45 ; ; 320
+S ; CDG ; MUC ; 01h35 ; ; 320
+S ; NAP ; CDG ; 02h20 ; ; 320
+S ; CDG ; NAP ; 02h10 ; ; 320
+S ; NCE ; CDG ; 01h35 ; ; 320
+S ; CDG ; NCE ; 01h35 ; ; 320
+S ; NCE ; LIL ; 01h35 ; ; 320
+S ; LIL ; NCE ; 01h40 ; ; 320
+S ; NCE ; NTE ; 01h30 ; ; 320
+S ; NTE ; NCE ; 01h25 ; ; 320
+S ; NCE ; ORY ; 01h25 ; ; 320
+S ; ORY ; NCE ; 01h25 ; ; 320
+S ; NCE ; SXB ; 01h10 ; ; 320
+S ; SXB ; NCE ; 01h10 ; ; 320
+S ; NTE ; CDG ; 01h05 ; ; 320
+S ; CDG ; NTE ; 01h05 ; ; 320
+S ; OTP ; CDG ; 03h10 ; ; 320
+S ; CDG ; OTP ; 02h55 ; ; 320
+S ; PRG ; CDG ; 01h45 ; ; 320
+S ; CDG ; PRG ; 01h40 ; ; 320
+S ; PUF ; ORY ; 01h20 ; ; 320
+S ; ORY ; PUF ; 01h20 ; ; 320
+S ; RBA ; CDG ; 02h55 ; ; 320
+S ; CDG ; RBA ; 02h55 ; ; 320
+S ; SOF ; CDG ; 02h55 ; ; 320
+S ; CDG ; SOF ; 02h45 ; ; 320
+S ; SVO ; CDG ; 04h00 ; ; 320
+S ; CDG ; SVO ; 03h40 ; ; 320
+S ; TLN ; ORY ; 01h25 ; ; 320
+S ; ORY ; TLN ; 01h25 ; ; 320
+S ; ZRH ; CDG ; 01h20 ; ; 320
+S ; CDG ; ZRH ; 01h15 ; ; 320
+S ; TLS ; CDG ; 01h35 ; ; 320
+S ; CDG ; TLS ; 01h25 ; ; 320
+S ; TLS ; ORY ; 01h15 ; ; 320
+S ; ORY ; TLS ; 01h15 ; ; 320
+S ; TLS ; SXB ; 01h20 ; ; 320
+S ; SXB ; TLS ; 01h25 ; ; 320
+S ; TLV ; CDG ; 05h05 ; ; 320
+S ; CDG ; TLV ; 04h35 ; ; 320
+S ; TUN ; CDG ; 02h35 ; ; 320
+S ; CDG ; TUN ; 02h30 ; ; 320
+S ; TXL ; CDG ; 01h45 ; ; 320
+S ; CDG ; TXL ; 01h45 ; ; 320
+S ; VCE ; CDG ; 01h50 ; ; 320
+S ; CDG ; VCE ; 01h45 ; ; 320
+S ; VIE ; CDG ; 02h05 ; ; 320
+S ; CDG ; VIE ; 02h05 ; ; 320
+S ; WAW ; CDG ; 02h25 ; ; 320
+S ; CDG ; WAW ; 02h15 ; ; 320
+S ; CDG ; FLR ; 01h45 ; ; 320
+S ; FLR ; CDG ; 01h45 ; ; 320
+S ; BLQ ; CDG ; 01h45 ; ; 320
+S ; CDG ; BLQ ; 01h45 ; ; 320
+S ; CDG ; TRS ; 01h50 ; ; 320
+S ; TRS ; CDG ; 01h50 ; ; 320
+S ; TLS ; PMI ; 01h10 ; ; 320
+S ; PMI ; TLS ; 01h15 ; ; 320
+S ; BOD ; LYS ; 01h10 ; ; 320
+S ; LYS ; BOD ; 01h10 ; ; 320
+S ; FSC ; ORY ; 01h40 ; ; 320
+S ; ORY ; FSC ; 01h40 ; ; 320
+S ; PGF ; ORY ; 01h20 ; ; 320
+S ; ORY ; PGF ; 01h15 ; ; 320
+S ; LYS ; NTE ; 01h15 ; ; 320
+S ; NTE ; LYS ; 01h15 ; ; 320
+S ; CDG ; GLA ; 01h45 ; ; 320
+S ; GLA ; CDG ; 01h50 ; ; 320
+S ; CDG ; KRK ; 02h15 ; ; 320
+S ; KRK ; CDG ; 02h10 ; ; 320
+S ; CDG ; ZAG ; 01h55 ; ; 320
+S ; ZAG ; CDG ; 02h05 ; ; 320
+S ; BOD ; AJA ; 01h30 ; ; 320
+S ; AJA ; BOD ; 01h30 ; ; 320
+S ; BOD ; NCE ; 01h15 ; ; 320
+S ; NCE ; BOD ; 01h20 ; ; 320
+S ; FSC ; NTE ; 01h55 ; ; 320
+S ; NTE ; FSC ; 01h50 ; ; 320
+S ; LIL ; TLS ; 01h30 ; ; 320
+S ; TLS ; LIL ; 01h35 ; ; 320
+S ; MPL ; NTE ; 01h15 ; ; 320
+S ; NTE ; MPL ; 01h10 ; ; 320
+
+W ; AJA ; ORY ; 01h40 ; ; 320
+W ; ORY ; AJA ; 01h40 ; ; 320
+W ; ALG ; CDG ; 02h20 ; ; 320
+W ; CDG ; ALG ; 02h15 ; ; 320
+W ; AMS ; CDG ; 01h15 ; ; 320
+W ; CDG ; AMS ; 01h15 ; ; 320
+W ; ARN ; CDG ; 02h40 ; ; 320
+W ; CDG ; ARN ; 02h35 ; ; 320
+W ; ATH ; CDG ; 03h30 ; ; 320
+W ; CDG ; ATH ; 03h20 ; ; 320
+W ; BCN ; CDG ; 02h00 ; ; 320
+W ; CDG ; BCN ; 01h45 ; ; 320
+W ; BIA ; ORY ; 01h35 ; ; 320
+W ; ORY ; BIA ; 01h35 ; ; 320
+W ; BIQ ; ORY ; 01h20 ; ; 320
+W ; ORY ; BIQ ; 01h20 ; ; 320
+W ; BOD ; CDG ; 01h25 ; ; 320
+W ; CDG ; BOD ; 01h20 ; ; 320
+W ; BOD ; ORY ; 01h10 ; ; 320
+W ; ORY ; BOD ; 01h05 ; ; 320
+W ; BUD ; CDG ; 02h20 ; ; 320
+W ; CDG ; BUD ; 02h10 ; ; 320
+W ; CDG ; BHX ; 01h25 ; ; 320
+W ; BHX ; CDG ; 01h20 ; ; 320
+W ; CDG ; CMN ; 03h05 ; ; 320
+W ; CMN ; CDG ; 03h05 ; ; 320
+W ; CDG ; CPH ; 01h55 ; ; 320
+W ; CPH ; CDG ; 02h00 ; ; 320
+W ; CDG ; EVN ; 04h35 ; ; 320
+W ; EVN ; CDG ; 05h20 ; ; 320
+W ; CDG ; FCO ; 02h05 ; ; 320
+W ; FCO ; CDG ; 02h10 ; ; 320
+W ; CDG ; GVA ; 01h10 ; ; 320
+W ; GVA ; CDG ; 01h10 ; ; 320
+W ; CDG ; HAM ; 01h35 ; ; 320
+W ; HAM ; CDG ; 01h35 ; ; 320
+W ; CDG ; IST ; 03h20 ; ; 320
+W ; IST ; CDG ; 03h45 ; ; 320
+W ; CDG ; KBP ; 03h05 ; ; 320
+W ; KBP ; CDG ; 03h20 ; ; 320
+W ; CDG ; LED ; 03h20 ; ; 320
+W ; LED ; CDG ; 03h30 ; ; 320
+W ; CDG ; LIN ; 01h30 ; ; 320
+W ; LIN ; CDG ; 01h30 ; ; 320
+W ; CDG ; LIS ; 02h35 ; ; 320
+W ; LIS ; CDG ; 02h30 ; ; 320
+W ; CDG ; LYS ; 01h10 ; ; 320
+W ; LYS ; CDG ; 01h10 ; ; 320
+W ; CDG ; MAD ; 02h05 ; ; 320
+W ; MAD ; CDG ; 02h10 ; ; 320
+W ; CDG ; MAN ; 01h30 ; ; 320
+W ; MAN ; CDG ; 01h30 ; ; 320
+W ; CDG ; MPL ; 01h25 ; ; 320
+W ; MPL ; CDG ; 01h30 ; ; 320
+W ; CDG ; MRS ; 01h25 ; ; 320
+W ; MRS ; CDG ; 01h30 ; ; 320
+W ; CDG ; MUC ; 01h35 ; ; 320
+W ; MUC ; CDG ; 01h45 ; ; 320
+W ; CDG ; NAP ; 02h10 ; ; 320
+W ; NAP ; CDG ; 02h20 ; ; 320
+W ; CDG ; NCE ; 01h35 ; ; 320
+W ; NCE ; CDG ; 01h35 ; ; 320
+W ; CDG ; NTE ; 01h05 ; ; 320
+W ; NTE ; CDG ; 01h05 ; ; 320
+W ; CDG ; OTP ; 02h55 ; ; 320
+W ; OTP ; CDG ; 03h10 ; ; 320
+W ; CDG ; PRG ; 01h45 ; ; 320
+W ; PRG ; CDG ; 01h45 ; ; 320
+W ; CDG ; RBA ; 02h55 ; ; 320
+W ; RBA ; CDG ; 02h55 ; ; 320
+W ; CDG ; SVO ; 03h40 ; ; 320
+W ; SVO ; CDG ; 04h05 ; ; 320
+W ; CDG ; TLS ; 01h25 ; ; 320
+W ; TLS ; CDG ; 01h35 ; ; 320
+W ; CDG ; TLV ; 04h30 ; ; 320
+W ; TLV ; CDG ; 05h05 ; ; 320
+W ; CDG ; TUN ; 02h30 ; ; 320
+W ; TUN ; CDG ; 02h35 ; ; 320
+W ; CDG ; TXL ; 01h45 ; ; 320
+W ; TXL ; CDG ; 01h45 ; ; 320
+W ; CDG ; VCE ; 01h45 ; ; 320
+W ; VCE ; CDG ; 01h50 ; ; 320
+W ; CDG ; VIE ; 02h00 ; ; 320
+W ; VIE ; CDG ; 02h05 ; ; 320
+W ; CDG ; WAW ; 02h15 ; ; 320
+W ; WAW ; CDG ; 02h25 ; ; 320
+W ; CLY ; ORY ; 01h30 ; ; 320
+W ; ORY ; CLY ; 01h35 ; ; 320
+W ; LYS ; NCE ; 00h55 ; ; 320
+W ; NCE ; LYS ; 00h55 ; ; 320
+W ; LYS ; TLS ; 01h05 ; ; 320
+W ; TLS ; LYS ; 01h00 ; ; 320
+W ; MPL ; ORY ; 01h30 ; ; 320
+W ; ORY ; MPL ; 01h15 ; ; 320
+W ; MRS ; ORY ; 01h20 ; ; 320
+W ; ORY ; MRS ; 01h15 ; ; 320
+W ; NCE ; LIL ; 01h35 ; ; 320
+W ; LIL ; NCE ; 01h35 ; ; 320
+W ; NCE ; ORY ; 01h25 ; ; 320
+W ; ORY ; NCE ; 01h25 ; ; 320
+W ; ORY ; PUF ; 01h20 ; ; 320
+W ; PUF ; ORY ; 01h20 ; ; 320
+W ; ORY ; TLN ; 01h25 ; ; 320
+W ; TLN ; ORY ; 01h30 ; ; 320
+W ; ORY ; TLS ; 01h15 ; ; 320
+W ; TLS ; ORY ; 01h20 ; ; 320
+W ; CDG ; AMM ; 04h40 ; ; 320
+W ; AMM ; CDG ; 05h20 ; ; 320
+W ; CDG ; LHR ; 01h15 ; AF1080 ; 320
+W ; LHR ; CDG ; 01h10 ; AF1081 ; 320
+W ; CDG ; LHR ; 01h20 ; AF1180 ; 320
+W ; LHR ; CDG ; 01h15 ; AF1181 ; 320
+W ; CDG ; LHR ; 01h20 ; AF1280 ; 320
+W ; LHR ; CDG ; 01h15 ; AF1281 ; 320
+W ; CDG ; LHR ; 01h20 ; AF1380 ; 320
+W ; LHR ; CDG ; 01h20 ; AF1381 ; 320
+W ; CDG ; LHR ; 01h20 ; AF1580 ; 320
+W ; LHR ; CDG ; 01h15 ; AF1581 ; 320
+W ; CDG ; LHR ; 01h20 ; AF1680 ; 320
+W ; LHR ; CDG ; 01h15 ; AF1681 ; 320
+W ; CDG ; LHR ; 01h15 ; AF1780 ; 320
+W ; LHR ; CDG ; 01h10 ; AF1781 ; 320
+W ; MRS ; BOD ; 01h05 ; ; 320
+W ; BOD ; MRS ; 01h05 ; ; 320
+W ; MRS ; NTE ; 01h20 ; ; 320
+W ; NTE ; MRS ; 01h15 ; ; 320
+W ; MRS ; AMS ; 02h00 ; ; 320
+W ; AMS ; MRS ; 01h45 ; ; 320
+W ; NCE ; NTE ; 01h35 ; ; 320
+W ; NTE ; NCE ; 01h25 ; ; 320
+W ; BES ; ORY ; 01h15 ; ; 320
+W ; ORY ; BES ; 01h10 ; ; 320
+W ; BLQ ; CDG ; 01h45 ; ; 320
+W ; CDG ; BLQ ; 01h40 ; ; 320
+W ; CDG ; BES ; 01h20 ; ; 320
+W ; BES ; CDG ; 01h15 ; ; 320
+W ; LYS ; ORY ; 01h00 ; ; 320
+W ; ORY ; LYS ; 01h00 ; ; 320
+W ; CDG ; FLR ; 01h45 ; ; 320
+W ; FLR ; CDG ; 01h45 ; ; 320
+W ; LYS ; BOD ; 01h10 ; ; 320
+W ; BOD ; LYS ; 01h10 ; ; 320
+W ; LYS ; NTE ; 01h15 ; ; 320
+W ; NTE ; LYS ; 01h15 ; ; 320
+W ; CDG ; ZRH ; 01h15 ; ; 320
+W ; ZRH ; CDG ; 01h20 ; ; 320
+W ; ORY ; PGF ; 01h15 ; ; 320
+W ; PGF ; ORY ; 01h25 ; ; 320
+W ; CDG ; ORN ; 02h25 ; ; 320
+W ; ORN ; CDG ; 02h35 ; ; 320
+W ; CDG ; GLA ; 01h45 ; ; 320
+W ; GLA ; CDG ; 01h50 ; ; 320
