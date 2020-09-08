@@ -301,10 +301,7 @@ public class ConnexionCrew extends Observable
 				replaceArrayListItem(formParams, "ok", "TOK");
 				replaceArrayListItem(formParams, "displayFullUserName", login);
 				replaceArrayListItem(formParams, "currentAuthMethod", "TOK");
-				int index = findMfaIsAuthentIndex(formParams);
-				if (index != -1) {
-					formParams.add(index, new BasicNameValuePair("inputTokName", password));
-				}
+				formParams.add(new BasicNameValuePair("inputTokName", password));
 				formParams.add(new BasicNameValuePair("otpAuth", ""));
 
 				post.setURI(url);
@@ -778,7 +775,7 @@ public class ConnexionCrew extends Observable
                     if (response.getStatusLine().getStatusCode() == 200) {
                         final InputStream is = response.getEntity().getContent();
                         final int build = Integer.parseInt(Utils.streamToString(is, "ISO-8859-1").trim());
-                        if (20200202 < build) {
+                        if (ChopeCrew.buildNumber < build) {
                             System.out.println("Nouvelle version disponible");
                             JOptionPane.showMessageDialog(ChopeCrew.mf, "Une nouvelle version de ChopeCREW est disponible !\n            Rendez-vous sur http://chopecrew.free.fr", "ChopeCREW vous informe", -1);
                         }
@@ -1079,11 +1076,11 @@ public class ConnexionCrew extends Observable
 		}
 	}
 
-	private int findMfaIsAuthentIndex(ArrayList<NameValuePair> list) {
+	private int findMfaAuthOtpType(ArrayList<NameValuePair> list) {
 		BasicNameValuePair nvp;
 		for (int i = 0; i < list.size(); i++) {
 			nvp = (BasicNameValuePair) list.get(i);
-			if (nvp.getName().equals("mfaIsAuthent")) {
+			if (nvp.getName().equals("mfaAuthOtpType")) {
 				return i;
 			}
 		}
